@@ -46,16 +46,6 @@
 <br> ✔️ Оценка скорости алгоритмов</br>
 </div>
 
-## Инструменты
-
-<div class="alert alert-success">
-<br> ✔️ category_encoders  ✔️ ColumnTransformer</br>
-<br> ✔️ LightGBM ✔️ RandomForest </br>
-<br> ✔️ Pipeline ✔️ make_pipeline
-<br> ✔️ RandomizedSearchCV </br>
-<br> ✔️ Feature importance </br>
-</div>
-
 ## Исходные данные
 
 
