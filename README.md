@@ -1,6 +1,6 @@
 # Прогнозирование рыночной стоимости автомобилей
 
-![car prices](https://st2.depositphotos.com/4370503/6436/i/600/depositphotos_64364335-stock-photo-three-race-cars.jpg)
+<!---![car prices](https://st2.depositphotos.com/4370503/6436/i/600/depositphotos_64364335-stock-photo-three-race-cars.jpg)--->
 
 ## Описание проекта
 
